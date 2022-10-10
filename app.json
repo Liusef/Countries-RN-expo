@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "countries-rn-expo",
+    "slug": "countries-rn-expo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "userInterfaceStyle": "automatic"
+    },
+    "android": {
+      "userInterfaceStyle": "automatic"
+    }
+  },
+  "name": "countries-rn-expo"
+}
